@@ -1,1 +1,32 @@
+Week 2 Reading Notes
+
+"What Gets Counted" from Data Feminism by Catherine D'Ignazio and Lauren Klein
+- Data collection is never neutral. What gets counted and how it gets counted matters. Gaps in data collection or poor design can have massive impacts on how policies are created or how resources are allocated. 
+- TSA scanners using gender to classify how much of a "threat" air travelers may pose is an example of bad design. It's working off the assumption that all bodies fit into a binary and that anything different is a "threat." But what about people with disabilities or physical differences. Assigning moral value to people's bodies
+- Who gets to decide what a normal "female" or "male" body looks like
+- Classification can get complicated and how things are classified comes with a range of political/personal ramifications. Ex: how race is counted on the US Federal Census
+- Paradox of Exposure: Those who stand to gain the most from being "counted" face the most danger from the very act. Very "dammed if you do, dammed if you don't."
+- "Being represented also means being made visible, and being made visible to the matrix of domination poses significant risks to the health and safety of minoritized groups." -Often this idea that being included is a good thing, and that you should want to be counted! Having more options on a survey is someone inherently progressive. People may not always want to identify out of fear
+
+
+"The Numbers Don't Speak for Themselves" from Data Feminism by Catherine D'Ignazio and Lauren Klein
+- "When approaching any new source of knowledge, whether it be a dataset or dinner menu (or a dataset of dinner menus), it’s essential to ask questions about the social, cultural, historical, institutional, and material conditions under which that knowledge was produced, as well as about the identities of the people who created it."
+"Context also comes into play in the framing and communication of results."
+Who is responsible for providing context? Is it the users, the data publishers, or intermediaries (people who clean up and organize the data like librarians). Issues with funding and capacity!
+- Open data: the idea anyone can freely access, use, modify and share data for any purpose. Its goals are faster scientific progress and greater transparency/ability to hold the government accountable. However due to limited public funding, the data is often provided without context. 
+        - "Raw data dumps cannot ensure engagement or accountability" Tim Davies
+- Statistical inference: you can infer things about a population by studying a random sample and/or representative population. You then employ a theory/method to make these conclusions back on to the broader population
+Subjugated knowledge: forms of knowledge that have been pushed out of mainstream institutions and the conversations they encourage 
+        - Black women have been excluded from white male-controlled social institutions and circulate their knowledge elsewhere. As a result, that knowledge is not seen or recognized by those instituions and it becomes subjugated
+- Wired journalist Chris Anderson - "The numbers speak for themselves." The advent of big data would allow data scientists to conduct analysis of the entire human population, eliminating the need for relying on statistical inferences/sampling/statistical modeling and theory
+- Sometimes the raw data is influenced by racism, sexism, and colonialism! Can't have correlation without context because it can recirculate inequality
+- Algorithms of Oppression by Safiya Umoja: studied harmful stereotypes about Black and Latinx women perpetuated by search algorithms
+
+The CARE Principles and the Reuse, Sharing and Curation of Indigenous Data in Canadian Archaeology
+- The article argues that "open science" and data-centric principles such as "FAIR" underestimates the role colonialism and structural inequalities have on data. Questions who gets authority over the data and who benefits from it.
+- Open data suggests neutrality. Raw data is NOT neutral.
+Caraher (2016): argues that in the digital ecosystem, some skills are more privileged than others
+Issues facing Indigenous governments include: Navigating complex regulatory proccesses and legislation that codifies ownership of Indigenous belongings at both the provincial and federal level, accessing data collected on traditional territory, accessing training, indigenous peoples often carry the burden of educating non-indigenous archeologists and have to do a lot of advocacy for more ethical data processes 
+- The CARE framework recognizes power differentials in data sharing and data reuse in the “data ecosystem,” which includes digital infrastructures, analytics, and applications"
+- Draws on UNDRIP and the legal principle that "cultural integrity is a funda mental part of indigenous self-determination.” Heritage is often synonymous with law, and can provides paths to resolutions to legal conflicts"
 
