@@ -1,0 +1,23 @@
+Week 5 Notes
+Full cycle of humanities data: when you take all the data you've compiled and put it back into the world 
+  - A copy can be copius in a sense that it generates something further from it. So does originality matter? The copy itself becomes something meaningful
+The act of digitization isn't about preservation - instead it creates something new! Am I really just preserving SnB's theatre history? How am I transforming it?
+Consistent metadata terms: ahhhhhhhhhhhhhhh - most common is wcore version (look into this)
+Idea of things being remixable: something new emerges out of it by placing objects in conversation with one another 
+
+OCR: not neutral. Taking unformed, unfinished digital object and transforming it into an object for historians to use
+- Comes out of mechanical devices to help people see better
+- OCR works best with clean, type written text. Problems emerge with things like hand writing. So you have to clean up the image a lot - "de-noise" it, make the letters or numbers straight, have to turn your colour image into black and white
+- Build for legal texts 
+- Globe and Mail gets full digitization treatment. Quality of scans shows how the scanning misses vast chunks of the paper
+- Change over time in the amount of data that these things have seen and their ability to recognize patterns
+- Phone can turn things into text! but with historical texts this is still really hard - esp with handwritten things. (Same with SnB letters/handwritten notes and hand drawn stage direction)
+    
+
+
+OCR tutorial notes - Gwen presenting today 
+- DO NOT TAB OUT OF COLLAB!! Code will break / hard to get it back on track.
+- am I supposed to know what every single level of code does? Was able to get as far as converting a pdf reading into OCR file until I was stupid and shut my laptop off halfway through 
+
+
+- 
