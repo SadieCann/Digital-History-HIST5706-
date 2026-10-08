@@ -18,6 +18,8 @@ OCR: not neutral. Taking unformed, unfinished digital object and transforming it
 OCR tutorial notes - Gwen presenting today 
 - DO NOT TAB OUT OF COLLAB!! Code will break / hard to get it back on track.
 - am I supposed to know what every single level of code does? Was able to get as far as converting a pdf reading into OCR file until I was stupid and shut my laptop off halfway through 
-
-
-- 
+- Goal with OCR is NOT do completely clean up the text!
+- OCR uses a lot of regular expressions - the word "regular" is not defined. 
+- Need the text file. I also ran into this issue when I tried to upload just a PDF. If you can copy and paste words from a pdf file it means there's already a layer of OCR applied to it.
+Regular expression: import re: go get the file that's a regular expression - very painful. Since tutorial was written, regualr expressions have changed in python - have to add an r in front of all re that are re.compile
+"imposing order onto OCR soup" - love this
