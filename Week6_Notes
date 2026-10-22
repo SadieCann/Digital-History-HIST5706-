@@ -11,3 +11,4 @@ Could pull different websites into the same document: compare photos of cows fro
 Wget.exe - can't mess with the path - open as an administrator. Put it into the folder you're going to work in
 .\wget.exe in powershell
 !wget for collab
+TO KILL IT: Ctrl C out of terminal - get your mouse back - how to kill a process from the command line
