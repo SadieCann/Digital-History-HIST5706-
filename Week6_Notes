@@ -1,0 +1,11 @@
+Presentations: Nathan and Lydia 
+
+API: applied programming interface
+Example: offer standardized raw data and access methods, which allows you to customize and manipulate data on your end
+Open data / data driven research 
+Online Json viewer = the viewer makes the formatting nicer/easier to read! Can also use "pretty print" to make it a little easier
+Next step: open XAMPP to create a "storage container"
+Make a PHP file titled "helloworld" - make it plaintext (rich text = still things embedded within the file for governing how to display it)
+Could pull different websites into the same document: compare photos of cows from different sources!
+
+Wget
