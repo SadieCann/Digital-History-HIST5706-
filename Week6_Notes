@@ -8,4 +8,6 @@ Next step: open XAMPP to create a "storage container"
 Make a PHP file titled "helloworld" - make it plaintext (rich text = still things embedded within the file for governing how to display it)
 Could pull different websites into the same document: compare photos of cows from different sources!
 
-Wget
+Wget.exe - can't mess with the path - open as an administrator. Put it into the folder you're going to work in
+.\wget.exe in powershell
+!wget for collab
