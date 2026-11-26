@@ -1,0 +1,12 @@
+Presentations - Eleanor: Temporal modelling 
+  Network analysis/different programming language. Leads into knowledge graphs 
+  Tabletop roleplaying generator 
+Twine as a way for exploring musuem collections and creating soundscapes. Former CUPH grad!
+
+Presentation:
+- R specializes in stats and data visualization. Not the same as Python
+- Can use RStudio but should probs use Collab instead (good for both Windows and MacOS)
+SNA: social network analysis
+TNA: temporal social network analysis
+Issue with dataset: a lot of dates are averaged. historical data is messy and doesn't always fit neatly into what a program wants from you. You as the historican have to make choices about how to shape the data to fit.
+- Static vs. Dynamic Ddata: Dynamic is temporal? 
