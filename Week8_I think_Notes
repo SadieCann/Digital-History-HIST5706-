@@ -16,3 +16,8 @@ Surprise arrows!
 Filmstrip visual: screenshots of the network at regular points on the timeline
 Forward/Backward Reachable Sets: exclusive to temporal networks. Measures each nodes connection over time with other nodes going either forward or backwards
 Can make networks and visualize them in cool ways (including adding colours!)
+
+Closed world assumption: if something isn't listed its assumed to not exist 
+In a network, things are related to one another and things all have their own qualities.
+Linked open data: knowledge graph grounded in identifiers that provide a unique ID
+
